@@ -71,7 +71,7 @@ st.markdown("""
 # LOAD ACTUAL DATA
 # --------------------------------------------------
 
-DATA_FILE = Path(__file__).parent / "data" / "users.csv"
+DATA_FILE = Path(__file__).parent / "users.csv"
 
 st.sidebar.title("📊 VELOOP Analytics")
 st.sidebar.caption("Rewards & User Intelligence")
